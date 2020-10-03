@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b5f76a3-a691-4ec0-95e5-4dd3edf40121" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/LeetCode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1501-1600/P1512.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1501-1600/P1521-1530/P1523.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1501-1600/P1521-1530/P1528.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1501-1600/P1556.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/deps/RustCode-7a5ffa98a76893fb.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/rls/debug/deps/RustCode-7a5ffa98a76893fb.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/deps/RustCode-b7aaff3e76c5ecdc.d" beforeDir="false" afterPath="$PROJECT_DIR$/target/rls/debug/deps/RustCode-b7aaff3e76c5ecdc.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/deps/save-analysis/RustCode-7a5ffa98a76893fb.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/rls/debug/deps/save-analysis/RustCode-7a5ffa98a76893fb.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/deps/save-analysis/RustCode-b7aaff3e76c5ecdc.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/rls/debug/deps/save-analysis/RustCode-b7aaff3e76c5ecdc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-1lagti43m9fl8/s-frh9nxa1p6-vi2gi1-2wnt08aj66oj7/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-1lagti43m9fl8/s-frh9nxa1p6-vi2gi1-2wnt08aj66oj7/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-1lagti43m9fl8/s-frh9nxa1p6-vi2gi1-2wnt08aj66oj7/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-1lagti43m9fl8/s-frh9nxa1p6-vi2gi1.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-3tydl1hi3bb4n/s-frh9nx8sd9-o1dizs-2mbepq1t8ko9q/dep-graph.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-3tydl1hi3bb4n/s-frh9nx8sd9-o1dizs-2mbepq1t8ko9q/query-cache.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-3tydl1hi3bb4n/s-frh9nx8sd9-o1dizs-2mbepq1t8ko9q/work-products.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/rls/debug/incremental/RustCode-3tydl1hi3bb4n/s-frh9nx8sd9-o1dizs.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="2h3pp4hx" />
+  </component>
+  <component name="ProjectId" id="1iNUCHYBMAU6Kq4i2qvMQwNKjpw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1501-1600/P1512.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1501-1600/P1521-1530/P1528.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1501-1600/P1523.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1501-1600/P1556.rs" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/P1501-1600/P1521-1530" />
+    </key>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b5f76a3-a691-4ec0-95e5-4dd3edf40121" name="Default Changelist" comment="" />
+      <created>1601747414389</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601747414389</updated>
+    </task>
+    <servers />
+  </component>
+</project>
