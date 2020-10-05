@@ -5,13 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b5f76a3-a691-4ec0-95e5-4dd3edf40121" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1431.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1470.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1480.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1491-1500/P1496.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1451-1460/P1455.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1451-1460/P1460.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/P1401-1500/P1464.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/P1401-1500/P1491.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/P1401-1500/P1491-1500/P1491.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,6 +44,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
     <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1431.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1451-1460/P1455.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1451-1460/P1460.rs" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1464.rs" value="true" />
     <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1470.rs" value="true" />
     <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1480.rs" value="true" />
     <property name="org.rust.disableDetachedFileInspection/home/vaibhav/Desktop/Learning Materials/Hackathon Coding Challenges/RustCode/LeetCode/src/P1401-1500/P1491-1500/P1491.rs" value="true" />
@@ -58,6 +58,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/P1401-1500/P1451-1460" />
       <recent name="$PROJECT_DIR$/src/P1401-1500/P1491-1500" />
       <recent name="$PROJECT_DIR$/src/P1501-1600/P1521-1530" />
     </key>
